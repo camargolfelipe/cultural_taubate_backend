@@ -1,4 +1,5 @@
-# cultural_taubate_frontend
-Projeto Cultural Taubate front End
+# cultural_taubate_BackEnd
+Projeto Cultural Taubate Back_End
 
-<h3>alooooooo</h3>
+Este projeto tem como objetivo o cadastro de artistas para que possa ser mais facil os contratantes entrar em contato com os artistas.
+E também promover o  avanço no cenário artistico da cidade.
